@@ -1,1 +1,21 @@
-EfWLCXsoom6o0VgU9JlQ9/zniGk45gq+YYCG2if7CdJkmBu+8JI/wqb5gH+mJ0dn
+{
+"Title": "بروزرسانی",
+"Description": "برای دریافت بروزرسانی در کانال تلگرام ما عضو شوید.",
+"Link": "tg://resolve?domin=AppReverser",
+"Color": "#78cc7e",
+"ColorWave": "#78cc7e",
+"ColorCancell": "#78cc7e",
+"ColorBackGround": "#FFFFFFFF",
+"ColorBackGroundTop": "#efefef",
+"ColorMessage": "#323232",
+"ColorTitle": "#78cc7e",
+"Cancellable": "true",
+"Image": "update.png",
+"MessageID": "4",
+"ShowTime": "3",
+"fontTitle": "Base.ttf",
+"fontMessage": "Base.ttf",
+"fontButton": "Base.ttf",
+"Button": "عضویت",
+"Show": "on"
+}
