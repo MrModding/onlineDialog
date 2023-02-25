@@ -4,7 +4,7 @@
 "Link": "tg://resolve?domin=AppReverser",
 "Color": "#78cc7e",
 "ColorWave": "#78cc7e",
-"ColorCancell": "#ff0000",
+"ColorCancell": "#ffff0000",
 "ColorBackGround": "#FFFFFFFF",
 "ColorBackGroundTop": "#efefef",
 "ColorMessage": "#323232",
