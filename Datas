@@ -13,7 +13,7 @@
 "Image": "update.png",
 "MessageID": "4",
 "ShowTime": "8",
-"MessageGravity": "17",
+"MessageGravity": "5",
 "fontTitle": "Base.ttf",
 "fontMessage": "Base.ttf",
 "fontButton": "Base.ttf",
