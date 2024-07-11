@@ -1,0 +1,19 @@
+{
+  "version_code": 1,
+  "servers": [
+    {
+      "name": "Germany #1",
+      "persianName": "آلمان #۲",
+      "config": "vless://084471b8-5046-4b44-90dd-4c253bcb4760@mcide.marynek.click:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=2087vless&sni=de.tinar.click#%F0%9F%87%A9%F0%9F%87%AA+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84+Faraji+%5B%E2%88%9E%5D",
+      "country": "de",
+      "isFree": true
+    },
+    {
+      "name": "Germany #2",
+      "persianName": "آلمان #۲",
+      "config": "vless://084471b8-5046-4b44-90dd-4c253bcb4760@mtnde.marynek.click:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=2087vless&sni=de.tinar.click#%F0%9F%87%A9%F0%9F%87%AA++%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%D9%88+%D9%85%D9%88%D8%AF%D9%85Faraji+%5B%E2%88%9E%5D",
+      "country": "de",
+      "isFree": false
+    }
+  ]
+}
