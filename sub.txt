@@ -1,3 +1,7 @@
+vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=%2FpimYiCPFd3353OXG%2FMTM5LjE4NS4zNC4xMzE%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ev2raydev.pages.dev&fp=randomized&type=ws&sni=eV2rAYdEV.pageS.dEv#lite
+
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#lite+2
+
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@elma.ns.cloudflare.com:8443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=GunService&sni=1fdSNA119228928OpS2smTaB228aAsDDsd1ea114928251249.41-senator.info#Vip
 
 vless://a050b5ea-3d8b-4d3e-9b2e-aaddf15be815@190.93.247.56:8080?path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560&security=none&encryption=none&host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany
