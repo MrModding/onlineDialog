@@ -1,4 +1,4 @@
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@elma.ns.cloudflare.com:8443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=GunService&sni=1fdSNA119228928OpS2smTaB228aAsDDsd1ea114928249182.42-senator.info#Vip
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@elma.ns.cloudflare.com:8443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=GunService&sni=1fdSNA119228928OpS2smTaB228aAsDDsd1ea114928251249.41-senator.info#Vip
 
 vless://a050b5ea-3d8b-4d3e-9b2e-aaddf15be815@190.93.247.56:8080?path=%2Ftelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%2Ctelegram-%40LegenderY_Servers%3Fed%3D2560&security=none&encryption=none&host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany
 
