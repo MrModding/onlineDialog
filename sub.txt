@@ -1,3 +1,5 @@
+vless://7a1e88f6-7ba7-428a-9afb-3d3465dd7fe7@gozarvpn.tinar.click:17601?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7vip-%40Germany
+
 vless://90f119d2-a565-4e1c-88de-98855c3b5c44@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=speedtest.net.zula.ir.alibababa.j542mhgxfd023.com.technoovaa.ir&type=httpupgrade#new
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.org:8443?path=/Telegram%40V2ray_Alpha/%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoInmaHDiseRveR-Az7.paGES.dEv&fp=chrome&type=ws&sni=JOInMahdIServER-Az7.PaGeS.DEv#%F0%9F%87%A9%F0%9F%87%AA%20Germany
