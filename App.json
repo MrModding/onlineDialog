@@ -1,5 +1,14 @@
 {
   "telegram": "https://t.me/GozarrVPN",
   "support": "https://t.me/AmirShamss",
-  "version": 1
+  "version": 1,
+  "notification": {
+    "title": "my title",
+    "massage": "my massage",
+    "id": 1,
+    "show": true,
+    "count": 4,
+    "button": "open",
+    "url": "https://t.me/AppReverser"
+  }
 }
