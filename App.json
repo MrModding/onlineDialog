@@ -10,24 +10,5 @@
     "count": 4,
     "button": "open",
     "url": "https://t.me/AppReverser"
-  },
-  "freeServers": [
-    {
-      "devices": "",
-      "dnsRecords": [
-        {
-          "country": "fr",
-          "name": "France",
-          "server": "10.202.10.202,10.202.10.102"
-        },
-        {
-          "country": "qa",
-          "name": "Qatar",
-          "server": "38.54.8.85"
-        }
-      ],
-      "expire": 1795245000000,
-      "name": "Free"
-    }
-  ]
+  }
 }
