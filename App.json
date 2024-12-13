@@ -6,9 +6,9 @@
     "title": "my title",
     "massage": "my massage",
     "id": 1,
-    "show": true,
-    "count": 4,
+    "show": false,
+    "count": 1,
     "button": "open",
-    "url": "https://t.me/AppReverser"
+    "url": "https://t.me/AmirShamss"
   }
 }
