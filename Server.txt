@@ -1,0 +1,5 @@
+vless://4b6f534e-f201-447b-825a-3bfc192717c9@gozarvpn.tinar.click:33054?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7vip-AliFaraji
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh17v1.direct80ip.shop:8880?mode=gun&security=none&encryption=none&authority=t%40t.tt&type=grpc&serviceName=#nexis
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFUTQ2N216VGhTUHVRVFhnZTZaUHNRZjNkUER4M0FDT0k5Q2J1aGVnaXlRRGdmUFk=@45.129.96.62:31348#-ss
