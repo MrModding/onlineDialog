@@ -1,12 +1,51 @@
+vless://26fd03f0-4da3-4ca4-bf5e-e1a80455516b@www.speedtest.org:2095?path=/IRANLOVERS/BEST1223/IRAN?ed=8080&security=none&encryption=none&host=finlandhetzner.hozori.ir.&type=ws#سرورهای جدید فقط در نسخه جدید نرم افزار قابل مشاهدست
 
-vless://ac48cd45-ff78-4a4d-be7e-ae5c36f32ebc@photohamrah.ir:443?path=/fasfasfasfA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=photohamrah.ir&fp=chrome&type=ws&sni=photohamrah.ir#🇩🇪 Germany3
+برای اپ اندرویدی سرورای نسخه 1.8.16 و قبل از آن👆
+برای اپ ویندوزی سرورای نسخه 6.44 و قبل از آن👆
+
+لیست ای پی های جمع آوری شده:
+141.193.213.21
+172.67.68.129
+141.193.213.30
+public.rebeetb.eu.org
+speedtest.org
+verpex.com
+cmcss.net
+gamingmaster.ir
+zula.ir
+mtn.VPNPROSEC.com
+cocoondev.org
+mci.VPNPROSEC.com
+mtn.VPNPROSEC.com
+tel.VPNCUSTOMIZE.cam
+18.185.116.70
+iranserver.com
+speed.cloudflare.com
+tel.VPNCUSTOMIZE.cam
+104.24.0.11
+23.227.60.7
+172.64.229.35
+verpex.com
+104.31.16.65
+avval.ir
+
+
+
+1vless://ac48cd45-ff78-4a4d-be7e-ae5c36f32ebc@photohamrah.ir:443?path=/fasfasfasfA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=photohamrah.ir&fp=chrome&type=ws&sni=photohamrah.ir#🇩🇪 Germany3
+1vless://743a9ecc-095b-47bf-8d08-8a51acac0eb2@hozori.ir:443?path=/fasffasfsA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=hozori.ir&fp=chrome&type=ws&sni=hozori.ir#🇩🇪 Germany1
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@www.speedtest.net:443?path=/rlk4c3pe54bXh6t4?ed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=qeshmm.site&fp=randomized&type=ws&sni=qeshmm.site#🇩🇪 Germany
+
+
+
+1vless://46c2446d-38ef-4385-a79a-fa7720c76dec@photosair.ir:443?path=/fsafasfgA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=photosair.ir&fp=chrome&type=ws&sni=photosair.ir#🇩🇪 Germany2
+1vless://832aa589-acdf-415d-803e-01e0006ed920@www.speedtest.net:2087?path=/3bIs8z7B4FQTfZZf?ed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=fasfasfasfasfasf.pages.dev&fp=randomized&type=ws&sni=FasFasFaSFAsFAsF.PAGes.DeV#🇩🇪 Germany1
+
+
+1vless://f7c884e5-8016-43a7-a99a-3646bd12b218@photographipictureai.ir:443?path=/sfafasfasfA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=photographipictureai.ir&fp=chrome&type=ws&sni=photographipictureai.ir#🇩🇪 Germany4
+
+
+
 درزیر هرچی قرار بگیره ترتیب نمایشش توی نرم افزار با هر بار رفرش عوض میشه
-
-vless://743a9ecc-095b-47bf-8d08-8a51acac0eb2@hozori.ir:443?path=/fasffasfsA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=hozori.ir&fp=chrome&type=ws&sni=hozori.ir#🇩🇪 Germany1
-vless://46c2446d-38ef-4385-a79a-fa7720c76dec@photosair.ir:443?path=/fsafasfgA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=photosair.ir&fp=chrome&type=ws&sni=photosair.ir#🇩🇪 Germany2
-
-
-
 
 {
   "dns": {
@@ -233,61 +272,49 @@ vless://46c2446d-38ef-4385-a79a-fa7720c76dec@photosair.ir:443?path=/fsafasfgA&se
   }
 }
 
-1vless://f170a60b-bf8f-4790-a34a-df1464b139dd@ns4.esfahansiman.com:443?security=tls&alpn=h2,http/1.1&encryption=none&host=WWW.EsfahAnsimaN.infO.&fp=chrome&type=ws&sni=WWW.EsfahAnsimaN.infO.#🇩🇪 Germany
-
-1vless://f170a60b-bf8f-4790-a34a-df1464b139dd@ns6.esfahansiman.com:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&sni=refersion.com&sid=7fe29733#🇩🇪 Germany
-
-1vless://648b969a-4046-4f3b-b456-345fe1c1c9ea@ns6.esfahansiman.com:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&sni=refersion.com&sid=7fe29733#🇳🇱 Netherland
-
-1vless://648b969a-4046-4f3b-b456-345fe1c1c9ea@ns7.esfahansiman.com:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&sni=refersion.com&sid=7fe29733#🇫🇷 France
-
-
-1vless://f5c96a83-dea7-4959-991c-3611bbfd7ecb@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 United States
-
-
-1vless://V2rayArgoN-@138.124.61.246:443?security=reality&encryption=none&pbk=1tA2CIltAtu_CMKCMWqH4zuRi-EA9LFG9Wz6SI0_sG4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=ff#🇹🇷 Turkiye
-
-1vless://724ecb2c-d217-4cce-9032-ed12d178c34c@www.speedtest.net:443?path=/@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2?ed%3D2560&security=tls&alpn=h2,http/1.1&encryption=none&host=masterpiece-com.pages.dev&fp=randomized&type=ws&sni=MasTErpIECE-cOm.PAgeS.dEV#🇬🇧 England
-
-
-
 wifi IP:
 185.176.24.2
 
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇩🇪 Germany - Voice And Video Call
-
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇩🇪 Germany - Telegram Air Drop Games
-
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇫🇷 France
-
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇹🇷 Turkey
-
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇺🇸 United States
-
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇫🇮 Finland
-
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇦🇺 Australia
 
 
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇸🇪 Sweden
+vless://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=/fsafasfsafA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#🇩🇪 Germany - Voice And Video Call
+
+vless://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=/fsafasfsafA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#🇩🇪 Germany - Telegram Air Drop Games
+
+vless://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=/fsafasfsafA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#🇫🇷 France
+
+vless://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=/fsafasfsafA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#🇹🇷 Turkey
+
+
+vless://f7c884e5-8016-43a7-a99a-3646bd12b218@photographipictureai.ir:443?path=/sfafasfasfA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=photographipictureai.ir&fp=chrome&type=ws&sni=photographipictureai.ir#🇺🇸 United States
+
+
+vless://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?path=/fsafasfsafA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nextgenerationaiplatform.ir#🇫🇮 Finland
+
+
+vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:2087?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇦🇺 Australia
+
+
+vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:2087?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇸🇪 Sweden
 
 
 
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇮🇳 India
+vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:2087?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇮🇳 India
 
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇦🇪 Dubai
-
-
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇸🇬 Singapore
-
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇳🇱 Netherland
+vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:2087?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇦🇪 Dubai
 
 
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇧🇷 Brazil
+vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:2087?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇸🇬 Singapore
 
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇨🇭 Switzerland
 
-vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:443?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇯🇵 Japan
+vless://f7c884e5-8016-43a7-a99a-3646bd12b218@photographipictureai.ir:443?path=/sfafasfasfA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=photographipictureai.ir&fp=chrome&type=ws&sni=photographipictureai.ir#🇳🇱 Netherland
+
+
+vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:2087?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇧🇷 Brazil
+
+vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:2087?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇨🇭 Switzerland
+
+vless://47532027-d24f-471e-b08d-dd825bb9d2c2@karshenashamrah.ir:2087?path=/asdasdsadA&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=karshenashamrah.ir&fp=chrome&type=ws&sni=karshenashamrah.ir#🇯🇵 Japan
 
 
 
@@ -309,6 +336,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇩🇪 Germany
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🇩🇪 Germany
+
+
+
+vless://832aa589-acdf-415d-803e-01e0006ed920@www.speedtest.net:2087?path=/3bIs8z7B4FQTfZZf?ed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=fasfasfasfasfasf.pages.dev&fp=randomized&type=ws&sni=FasFasFaSFAsFAsF.PAGes.DeV#🇩🇪 Germany
 
 
 172.67.189.253
