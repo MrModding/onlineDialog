@@ -12,7 +12,7 @@
     "first_rate_today": 1397500,
     "source": "currency",
     "unit": "USD",
-    "title": "dollar",
+    "title": "US Dollar",
     "updated_at": 1767173438572
   },
   {
@@ -28,7 +28,7 @@
     "first_rate_today": 1639400,
     "source": "currency",
     "unit": "EUR",
-    "title": "euro",
+    "title": "Euro",
     "updated_at": 1767173438572
   },
   {
